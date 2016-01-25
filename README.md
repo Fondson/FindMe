@@ -1,4 +1,4 @@
-# FindMe
+# Find Me
 Demo made during ConUHacks 2016
 
 #Description
